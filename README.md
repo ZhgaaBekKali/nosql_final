@@ -1,9 +1,10 @@
-# Online Store MongoDB Final Project
+# Online Store – NoSQL Final Project
 
-This repository contains the final project for the Advanced Databases (NoSQL) course.  
-The project focuses on designing, implementing, and analyzing a MongoDB-based database for an Online Store system.
+This project demonstrates a simple online store system using MongoDB, Node.js, and a basic frontend.
+The backend provides RESTful APIs for products, orders, and reviews.
+The frontend consumes these APIs using JavaScript fetch requests.
 
-The project is completed individually and is an extension of the midterm project.
+The project is intended for academic purposes.
 
 ---
 
