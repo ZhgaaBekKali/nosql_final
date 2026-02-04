@@ -14,10 +14,10 @@ app.use("/api/orders", ordersRoutes);
 app.use("/api/reviews", reviewsRoutes);
 
 app.get("/", (req, res) => {
-  res.send("Online Store API is running");
+    res.send("Online Store API is running");
 });
 
 const PORT = 3000;
 app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+    console.log(`Server running on port ${PORT}`);
 });
